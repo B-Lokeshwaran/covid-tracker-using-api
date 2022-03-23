@@ -1,0 +1,13 @@
+body{
+    background-color:'purple'
+}
+
+.maincontainer{
+    display: grid;
+    grid-template-columns: 40% 50%;
+}
+.bar{
+    margin-top:15%;
+    height:580px;
+    overflow:scroll;
+}
